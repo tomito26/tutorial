@@ -1,0 +1,5 @@
+tut/
+*.pyc
+
+.env
+.vscode
